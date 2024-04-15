@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` bash
-# Version that uses Axios (only read)
+# Version that uses Axios (only read) + vue-cookies create
 # If you want standalone ..
 # challenge-2410-yungyu
 
