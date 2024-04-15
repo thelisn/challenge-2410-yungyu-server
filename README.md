@@ -5,7 +5,9 @@
 ## Build Setup
 
 ``` bash
-# Version that uses Axios (only read) + vue-cookies create
+# Version that uses Axios (only read) + vue-cookies (create)
+# Backend server using Express
+
 # If you want standalone ..
 # challenge-2410-yungyu
 
